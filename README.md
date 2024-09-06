@@ -9,4 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=dudublessed&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudublessed&theme=midnight-purple&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/dudublessed/github-readme-stats)<br/>
   
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c#&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_logo>&logoColor=white)
+
