@@ -5,4 +5,7 @@
 
 > [!IMPORTANT]
 > Jesus Christ truly risen from the dead.
+>
+> ![](https://github-readme-stats.vercel.app/api?username=dudublessed&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudublessed&theme=midnight-purple&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/dudublessed/github-readme-stats)<br/>
   
