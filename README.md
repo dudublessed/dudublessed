@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Eduardo Sousa Menezes.
+### 👋 Hi, I’m Eduardo Sousa Menezes.
 
 >#### 🎓 Currently, im taking courses in the 4° semester of my Computer Science bachelor's degree
 >#### ✝️ Jesus Christ truly risen from the dead.
