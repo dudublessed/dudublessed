@@ -45,9 +45,16 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 #
-![CatGif](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
-![DuckGif](https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYyNzEzMDQsIm5iZiI6MTcyNjI3MTAwNCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEzVDIzNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiODYxYzA0N2VmNWQ0ZWYxODQzZDIzYWY3NTY2ZTQwODkzZDQyMDVmOTFjYjE2OWM3YzgwYWRjNzA3YmY5OGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WwY_GCuvqbhnsaeXgpSset2V4lCoG-G4fcuWUVo5VPU)
-
+<table>
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style="width: 100%; max-width: 400px;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYyNzEzMDQsIm5iZiI6MTcyNjI3MTAwNCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEzVDIzNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiODYxYzA0N2VmNWQ0ZWYxODQzZDIzYWY3NTY2ZTQwODkzZDQyMDVmOTFjYjE2OWM3YzgwYWRjNzA3YmY5OGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WwY_GCuvqbhnsaeXgpSset2V4lCoG-G4fcuWUVo5VPU" style="width: 100%; max-width: 400px;">
+    </td>
+  </tr>
+</table>
 
 
 
