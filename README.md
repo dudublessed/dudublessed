@@ -20,39 +20,28 @@
 #
 
 ### Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddsmlkd/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estudantilmenezes@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/another0001)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ddsmlkd/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:estudantilmenezes@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/another0001)
 
 #
 
-### Languages:
+### Stacks:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c#&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,php,tailwind,mysql,dotnet,figma,azure,visualstudio,vscode&perline=6" />
+</a>
+  <br />
 
-#
-
-### Databases:
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #
 
-### IDE:
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-#
-<table>
   <tr>
     <td style="width: 100%;">
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style="width: 100%; max-width: 400px;">
+      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style="width: 100%; max-width: 300px;">
     </td>
- 
   </tr>
-</table>
+
 
 
 
