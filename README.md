@@ -15,30 +15,23 @@
 
 #
 
-<h3 align="center">Contact Me</h3>
+### Contact Me
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/ddsmlkd/">
-    <img src="https://skillicons.dev/icons?i=linkedin">
-  </a>
-  <a href="mailto:estudantilmenezes@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail">
-  </a>
-  <a href="https://discord.com/users/another0001">
-    <img src="https://skillicons.dev/icons?i=discord">
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ddsmlkd/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:estudantilmenezes@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/another0001)
+
+
 
 
 #
 
-<h3 align="center"> Stacks </h3>
+### Stacks 
 
-<p align="center"> 
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,html,css,tailwind,js,php,mysql,dotnet,figma,azure,visualstudio,vscode&perline=6"/>
   </a>
-</p>
   <br />
 
 
