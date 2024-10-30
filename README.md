@@ -5,16 +5,11 @@
 
 #
 ### GitHub Stats:
-<table>
-  <tr>
-    <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dudublessed&show_icons=true&theme=gruvbox&bg_color=000000%&include_all_commits=true%" style="width: 100%; max-width: 400px;">
-    </td>
-    <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudublessed&layout=donut&theme=gruvbox&bg_color=000000" style="width: 100%; max-width: 400px;">
-    </td>
-  </tr>
-</table>
+  <td style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dudublessed&show_icons=true&theme=gruvbox&bg_color=000000%&include_all_commits=true%" style="width: 100%; max-width: 400px;">
+  </td>
+
+
 
 
 #
