@@ -5,10 +5,11 @@
 
 #
 ### GitHub Stats:
-  <td style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dudublessed&show_icons=true&theme=gruvbox&bg_color=000000%&include_all_commits=true%" style="width: 100%; max-width: 400px;">
+<table>
+  <td style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dudublessed&show_icons=true&theme=tokyonight&bg_color=000000%&include_all_commits=true%" style="width: 100%; max-width: 00px;">
   </td>
-
+</table>
 
 
 
