@@ -30,7 +30,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,tailwind,js,php,mysql,postgresql,dotnet,figma,azure,visualstudio,vscode&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=cs,html,css,tailwind,js,php,mysql,postgresql,mongodb,dotnet,figma,azure,visualstudio,vscode,windows&perline=6"/>
   </a>
   <br />
 
