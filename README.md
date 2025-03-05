@@ -1,21 +1,14 @@
 ### 👋 Hi, I’m Eduardo Sousa Menezes.
 
->#### 🎓 Currently, im taking courses in the 5° semester of my Computer Science bachelor's degree
->#### ✝️ Jesus Christ truly risen from the dead.
+#
 
-### Random Phrase Generator
-
-| #  | Phrase |
-|----|--------|
-| 1  | "Code is like humor. When you have to explain it, it’s bad." |
-| 2  | "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." |
-| 3  | "The best way to predict the future is to invent it." |
-| 4  | "First, solve the problem. Then, write the code." |
-| 5  | "A good programmer is someone who always looks both ways before crossing a one-way street." |
-
-_Refresh to see another phrase!_
+### About me:
+#### - ✝️ I'm a christian
+#### - 🎓 Currently, im taking courses in the 5° semester of my Computer Science bachelor's degree
+#### [Click me!](https://youtu.be/vmsu0Mb6lH0?si=sPsZ49J5dGCo-sXy)
 
 #
+
 ### GitHub Stats:
 <table>
   <td style="width: 100%;">
