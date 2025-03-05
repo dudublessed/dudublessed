@@ -20,22 +20,30 @@
 
 #
 
-### Stacks 
+### Stacks
 
+>### 💻 Languages
+>![](https://skillicons.dev/icons?i=php,cs,js,html,css,&perline=10)
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,cs,js,html,css,tailwind,postgresql,mysql,mongodb,dotnet,figma,azure,phpstorm,visualstudio,vscode,windows,ubuntu&perline=6"/>
-  </a>
-  <br />
+>### ⚙️ Frameworks
+>![](https://skillicons.dev/icons?i=tailwind&perline=6)
 
+>### 🔧 Tools
+>
+>#### 🖥️ IDE
+>![](https://skillicons.dev/icons?i=phpstorm,visualstudio,vscode&perline=10)
+>#### 🗄️ DataBase
+>![](https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=10)
+>#### 🛠️ Development
+>![](https://skillicons.dev/icons?i=git,dotnet&perline=10)
+>#### 🎨 Design
+>![](https://skillicons.dev/icons?i=figma&perline=10)
+>#### ☁️ Cloud
+>![](https://skillicons.dev/icons?i=azure&perline=10)
 
-#
+>### 💿 OS
+>![](https://skillicons.dev/icons?i=windows,ubuntu&perline=10)
 
-  <tr>
-    <td style="width: 100%;">
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style="width: 100%; max-width: 300px;">
-    </td>
-  </tr>
 
 
 
