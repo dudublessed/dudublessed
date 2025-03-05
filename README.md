@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Eduardo Sousa Menezes.
 
->#### 🎓 Currently, im taking courses in the 4° semester of my Computer Science bachelor's degree
+>#### 🎓 Currently, im taking courses in the 5° semester of my Computer Science bachelor's degree
 >#### ✝️ Jesus Christ truly risen from the dead.
 
 #
@@ -11,18 +11,12 @@
   </td>
 </table>
 
-
-
 #
 
 ### Contact Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ddsmlkd/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:estudantilmenezes@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/another0001)
-
-
-
 
 #
 
