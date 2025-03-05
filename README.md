@@ -3,6 +3,18 @@
 >#### 🎓 Currently, im taking courses in the 5° semester of my Computer Science bachelor's degree
 >#### ✝️ Jesus Christ truly risen from the dead.
 
+### Random Phrase Generator
+
+| #  | Phrase |
+|----|--------|
+| 1  | "Code is like humor. When you have to explain it, it’s bad." |
+| 2  | "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." |
+| 3  | "The best way to predict the future is to invent it." |
+| 4  | "First, solve the problem. Then, write the code." |
+| 5  | "A good programmer is someone who always looks both ways before crossing a one-way street." |
+
+_Refresh to see another phrase!_
+
 #
 ### GitHub Stats:
 <table>
