@@ -1,12 +1,34 @@
-### 👋 Hi, I’m Eduardo Sousa Menezes.
+### Why you should hire me
+- _I'm widely recognized for my exceptional ability to complete up to 15% of any programming project. My communication is top-notch—especially for those brave enough to try understanding me. I proudly specialize in not liking JavaScript and escaping into the comforting arms of strict PHP with HTML/CSS... only to end up using JavaScript anyway. Currently, I'm deep into software development with .NET and C# (Windows Forms, because why not?), but please don't expect anything beautiful from the front end. Still, I’m confident I can build something that might accidentally have a real impact on your enterprise. Maybe._
+
+### Uhhh
+- I like to think and read
+- Newspaper (online because i like code)
+- Cats..........
+- KISS, YAGNI & SINE — whenever I’m using 100% of my brain (so... not often)
+- I DO NOT LIKE ANIME.
+- I DO NOT PLAY GAMES.
+- Money? What's that?
+
+### What if... 🧪 (shower thoughts & random truths)
+- The universe was created with code (spoiler: it was... with math) 😧
+- The AI created something faster than the light and we discovered what's inside a blackhole 🤖
+- Whales could fly 🐳
+- Cats. 😼
+- You hire me 👻
+
+#### [Click me!](https://youtu.be/vmsu0Mb6lH0?si=sPsZ49J5dGCo-sXy)
 
 #
 
-### About me:
-#### - ✝️ I'm a christian
-#### - 🎓 Currently, im taking courses in the 5° semester of my Computer Science bachelor's degree
-#### [Click me!](https://youtu.be/vmsu0Mb6lH0?si=sPsZ49J5dGCo-sXy)
+### Stacks
+>### 🧠 My mind
+>### 💻 Laptop
+>### 👐 Hands 
+>#### 🙏 Prayer
+>#### 💀 Git Stash & Pop when i code on the wrong branch
 
+ 
 #
 
 ### GitHub Stats:
@@ -17,40 +39,3 @@
 </table>
 
 #
-
-### Contact Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ddsmlkd/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:estudantilmenezes@gmail.com)
-
-#
-
-### Stacks
-
->### 💻 Languages
->![](https://skillicons.dev/icons?i=php,cs,js,html,css,&perline=10)
-
->### ⚙️ Frameworks
->![](https://skillicons.dev/icons?i=tailwind&perline=6)
-
->### 🔧 Tools
->
->#### 🖥️ IDE
->![](https://skillicons.dev/icons?i=phpstorm,visualstudio,vscode&perline=10)
->#### 🗄️ DataBase
->![](https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=10)
->#### 🛠️ Development
->![](https://skillicons.dev/icons?i=git,dotnet&perline=10)
->#### 🎨 Design
->![](https://skillicons.dev/icons?i=figma&perline=10)
->#### ☁️ Cloud
->![](https://skillicons.dev/icons?i=azure&perline=10)
-
->### 💿 OS
->![](https://skillicons.dev/icons?i=windows,ubuntu&perline=10)
-
-
-
-
-
-
