@@ -6,8 +6,6 @@
 - Newspaper (online because i like code)
 - Cats..........
 - KISS, YAGNI & SINE — whenever I’m using 100% of my brain (so... not often)
-- I DO NOT LIKE ANIME.
-- I DO NOT PLAY GAMES.
 - Money? What's that?
 
 ### What if... 🧪 (shower thoughts & random truths)
@@ -27,15 +25,3 @@
 >### 👐 Hands 
 >#### 🙏 Prayer
 >#### 💀 Git Stash & Pop when i code on the wrong branch
-
- 
-#
-
-### GitHub Stats:
-<table>
-  <td style="width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dudublessed&show_icons=true&theme=tokyonight&bg_color=000000%&include_all_commits=true%" style="width: 100%; max-width: 00px;">
-  </td>
-</table>
-
-#
